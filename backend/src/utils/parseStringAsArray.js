@@ -1,0 +1,1 @@
+module.exports = (array) => array.split(',').map(item => item.trim());
